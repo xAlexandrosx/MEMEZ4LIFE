@@ -1,0 +1,16 @@
+footer{
+    background-color: greenyellow;
+    width: 100%;
+    float: inline-end;
+    display: block;
+}
+
+html{
+    background-color: rgb(36, 36, 36);
+    box-sizing: border-box;
+}
+
+.center_div{
+    justify-content: center;
+    align-content: center;
+}
